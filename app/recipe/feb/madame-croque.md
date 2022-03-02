@@ -7,5 +7,5 @@ Recipe Picks:
 - January: [Chocolate Soup](../recipe/jan/chocolate-soup.md)
 
 
-- January: [Chocolate Soup](../recipe/jan/chocolate-soup.md)
+- February: [Chocolate Soup](../recipe/jan/chocolate-soup.md)
 
